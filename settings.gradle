@@ -1,0 +1,3 @@
+rootProject.name='SendGridAndroidSample'
+include ':app'
+include ':sendgridandroid'
