@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/wwdablu/SendGridAndroid.svg)](https://jitpack.io/#wwdablu/SendGridAndroid)  
+
 # SendGridAndroid  
 An Android library which provides the ability to send email through SendGrid. Ability to send attachment is also present.  
 
