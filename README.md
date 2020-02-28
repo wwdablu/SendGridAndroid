@@ -18,7 +18,7 @@ An Android library which provides the ability to send email through SendGrid. Ab
 ```  
 Code:  
 ```  
-SendGridAndroid sendGridAndroid = new SendGridAndroid("");
+SendGridAndroid sendGridAndroid = new SendGridAndroid(SENDGRID_API);
 
 EMail eMail = new EMail();
 
